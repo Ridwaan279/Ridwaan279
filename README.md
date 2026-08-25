@@ -13,7 +13,7 @@
 </p>
 
 <p>
-I'm a Mechatronic and Robotic Engineering student at the **University of Sheffield**.
+I'm a Mechatronic and Robotic Engineering student at the <b>University of Sheffield</b>.
 I'm particularly interested in <b>autonomous robotics, machine learning, computer
 vision, embedded systems and entrepreneurship</b>.
 </p>
