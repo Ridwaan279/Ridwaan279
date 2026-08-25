@@ -1,6 +1,6 @@
-# Hi, I'm Ridwaan Joomun 👋
+# Hi, I'm Ridwaan Joomun! 🚀🚀🚀
 
-### 🤖 Mechatronic & Robotic Engineering Student | Robotics | AI/ML | Startups
+### Mechatronic & Robotic Engineering Student | Robotics | AI/ML | Startups
 
 <p align="center">
   <img src="./assets/rover.gif" width="250">
