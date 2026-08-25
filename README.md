@@ -49,26 +49,6 @@ helping drive the team's overall technical direction.
 
 ---
 
-## 🧠 Other Projects
-
-I've worked on a range of projects spanning robotics, AI, embedded systems and
-software development, including:
-
-- 🤖 Autonomous and line-following robots
-- 🧠 Machine learning and computer vision systems
-- ♻️ AI-powered waste sorting
-- 🌡️ **Project VEX** — an indoor air-quality and mould-risk detection startup
-- 📱 Mobile application development
-- 🌐 Web development and UI/UX
-- 🛒 Online marketplace platforms
-- 🔌 Embedded systems and IoT projects
-- 👤 Facial recognition systems
-
-I'm particularly interested in projects where **hardware, software and AI come
-together to solve real-world problems**.
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
