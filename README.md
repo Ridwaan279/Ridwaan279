@@ -13,12 +13,7 @@
 </p>
 
 <p>
-I'm a Mechatronic and Robotic Engineering student at the University of Sheffield,
-passionate about building intelligent systems that combine <b>robotics, software,
-AI and hardware</b>.
-</p>
-
-<p>
+I'm a Mechatronic and Robotic Engineering student at the **University of Sheffield**.
 I'm particularly interested in <b>autonomous robotics, machine learning, computer
 vision, embedded systems and entrepreneurship</b>.
 </p>
