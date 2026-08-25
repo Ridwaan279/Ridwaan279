@@ -20,6 +20,30 @@ vision, embedded systems and entrepreneurship</b>.
 
 ---
 
+## 🚀 What I'm Working On
+
+### 🛰️ MarsWorks: Autonomous Mars Rover (Main project)
+
+I am the Chief Engineer of **[MarsWorks](https://github.com/SheffMarsworks)**,
+a student robotics team developing an autonomous Mars rover for international
+competitions.
+
+My work focuses on developing the rover's autonomous navigation system, including:
+
+- 🧭 Autonomous navigation and path planning
+- 📍 SLAM and localisation
+- 👁️ Computer vision and sensor fusion
+- 📡 LiDAR-based perception
+- 🤖 ROS 2 and Nav2
+- 🧪 Simulation with Gazebo
+- ⚡ Hardware/software integration
+- 🖥️ NVIDIA Jetson Orin NX
+
+I'm also responsible for coordinating the mechanical, robotics, electronics and science development and 
+helping drive the team's overall technical direction.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
@@ -59,30 +83,6 @@ vision, embedded systems and entrepreneurship</b>.
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
-
----
-
-## 🚀 What I'm Working On
-
-### 🛰️ MarsWorks: Autonomous Mars Rover (Main project)
-
-I am the Chief Engineer of **[MarsWorks](https://github.com/SheffMarsworks)**,
-a student robotics team developing an autonomous Mars rover for international
-competitions.
-
-My work focuses on developing the rover's autonomous navigation system, including:
-
-- 🧭 Autonomous navigation and path planning
-- 📍 SLAM and localisation
-- 👁️ Computer vision and sensor fusion
-- 📡 LiDAR-based perception
-- 🤖 ROS 2 and Nav2
-- 🧪 Simulation with Gazebo
-- ⚡ Hardware/software integration
-- 🖥️ NVIDIA Jetson Orin NX
-
-I'm also responsible for coordinating the mechanical, robotics, electronics and science development and 
-helping drive the team's overall technical direction.
 
 ---
 
