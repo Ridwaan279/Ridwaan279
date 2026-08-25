@@ -3,7 +3,7 @@
 ### 🤖 Mechatronic & Robotic Engineering Student | Robotics | AI/ML | Startups
 
 <p align="center">
-  <img src="./assets/rover.gif" width="350">
+  <img src="./assets/rover.gif" width="250">
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/rocket.gif" width="250">
 </p>
