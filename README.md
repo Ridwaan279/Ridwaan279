@@ -22,7 +22,7 @@ vision, embedded systems and entrepreneurship</b>.
 
 ## 🚀 What I'm Working On
 
-### 🛰️ MarsWorks — Autonomous Mars Rover
+### 🛰️ MarsWorks: Autonomous Mars Rover (Main project)
 
 I am the Chief Engineer of **[MarsWorks](https://github.com/SheffMarsworks)**,
 a student robotics team developing an autonomous Mars rover for international
